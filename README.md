@@ -1,6 +1,6 @@
 # PharmOps
 
-Pharmaceutical platform with 5 microservices deployed on AWS EKS using GitOps.
+Pharmaceutical platform with 5 microservices deployed on AWS EKS using GitOps.1
 
 ## Repositories
 
